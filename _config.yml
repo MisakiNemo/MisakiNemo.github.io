@@ -5,12 +5,24 @@
 # Site
 title: Misaki' Blog
 subtitle: to be, or not to be.
-description: ''
+description: 'to be, or not to be.'
 keywords:
 author: Misaki
-language: cn
+language: zh-CN
 
 timezone: ''
+
+#  aplayer
+aplayer:
+  meting: true
+  asset_inject: false
+
+# Inject the css and script (aplayer/meting)
+aplayerInject:
+  enable: true
+  per_page: true
+
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
